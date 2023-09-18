@@ -1,0 +1,280 @@
+
+Data Analyst Interview Questions Pdf
+1. what is a data analyst?
+analyzing data begins with its roots in statistics which, itself, stems into a long history into the period of pyramid building in egypt. in some other later, but still early forms, data analysis can be seen in censuses, taxing, and other governmental roles across the world. (data analyst interview questions pdf)
+
+with the development of computers and an ever-increasing move toward technological intertwinement, data analysis began to evolve. early data analysts use tabulating machines to count data from punch cards. in 1980, the development of the relational database gave a new breath to data analysts, which allowed them to use sequel (sql) to retrieve data from databases.
+
+today, data analysts can be found in a wide array of industries utilizing programming languages and statistics to pull, sort and present data in many forms in the benefit of the organization, people, and/or company.
+
+2. what do you understand by data cleansing?
+answer: data cleansing, also referred to as data scrubbing, is the process of modifying or removing data from a database that is incomplete, inconsistent, incorrect, improperly formatted, or redundant. the purpose of all these activities is to make sure that the database contains only good quality data, which can be easily worked upon. there are different ways of performing data cleansing in different software and data storage architectures. it can be performed interactively with the help of data wrangling tools, or as batch processing through scripting.
+
+3. explain what is data profiling?
+answer: the data profiling is nothing but a process of validating or examining the data that is already available in an existing data source, so the data source can be an existing database or it can be a file.
+
+the main use of this is to understand and take an executive decision whether the data that is available is readily used for other purposes.
+
+4. explain what does clustering mean?
+answer: the clustering is defined as a process of grouping a definite set of objects based on certain predefined parameters. this is one of the value-added data analysis technique that is used industry-wide while processing a large set of data.
+
+5. what is data cleansing and what are the best ways to practice data cleansing?
+answer: data cleansing or wrangling or data cleaning. all mean the same thing. it is the process of identifying and removing errors to enhance the quality of data. you can refer to the below image to know the various ways to deal with missing data. (online training online)
+
+6. how can you highlight cells with negative values in excel?
+answer: you can highlight cells with negative values in excel by using conditional formatting.
+
+below are the steps that you can follow:
+
+select the cells which you want to highlight with the negative values.
+go to the home tab and click on the conditional formatting option
+go to the highlight cell rules and click on the less than option.
+in the dialog box of less than, specify the value as 0.
+
+7. what is acid property in a database?
+answer: acid is an acronym for atomicity, consistency, isolation, and durability. this property is used in the databases to ensure whether the data transactions are processed reliably in the system or not. if you have to define each of these terms, then you can refer below.
+atomicity: refers to the transactions which are either completely successful or failed. here a transaction refers to a single operation. so, even if a single transaction fails, then the entire transaction fails and the database state is left unchanged.
+consistency: this feature makes sure that the data must meet all the validation rules. so, this basically makes sure that the transaction never leaves the database without completing its state.
+isolation: isolation keeps transactions separated from each other until they’re finished. so basically each and every transaction is independent.
+durability: durability makes sure that your committed transaction is never lost. so, this guarantees that the database will keep track of pending changes in such a way that even if there is a power loss, crash or any sort of error the server can recover from an abnormal termination.
+
+you are assigned a new data analytics project. how will you begin with and what are the steps you will follow?
+the purpose of asking this question is that the interviewer wants to understand how you approach a given data problem and what is the thought process you follow to ensure that you are organized. you can start answering this question by saying that you will start with finding the objective of the given problem and defining it so that there is solid direction on what needs to be done. the next step would be to do data exploration and familiarise me with the entire dataset which is very important when working with a new dataset. the next step would be to prepare the data for modeling which would including finding outliers, handling missing values and validating the data. having validated the data, i will start data modeling until i discover any meaningful insights. after this, the final step would be to implement the model and track the output results.
+
+this is the generic data analysis process that we have explained in this answer, however, the answer to your question might slightly change based on the kind of data problem and the tools available at hand.
+
+8. which data analyst software are you trained in?
+answer: this question tells the interviewer if you have the hard skills needed and can provide insight into what areas you might need training in. it’s also another way to ensure basic competency. in your answer, include the software the job ad emphasized, any experience with that software you have, and use familiar terminology.
+
+here’s a sample answer:
+
+“i have a breadth of software experience. for example, at my current employer, i do a lot of elki data management and data mining algorithms. i can also create databases in access and make tables in excel.”
+
+9. what are your long-term goals?
+answer: knowing what the company wants will help you emphasize your ability to solve their problems. do not discuss your personal goals outside of work, such as having a family or traveling around the world, in response to this question. this information is not relevant.”
+
+instead, stick to something work-related like this:
+
+“my long-term goals involve growing with a company where i can continue to learn, take on additional responsibilities, and contribute as much value as i can. i love that your company emphasizes professional development opportunities. i intend to take advantage of all of these.”
+
+10. what is the responsibility of a data analyst?
+answer:
+
+resolve business associated issues for clients and perform data audit operations.
+interpret data using statistical techniques.
+identify areas for improvement opportunities.
+analyze, identify and interpret trends or patterns in complex data sets.
+acquire data from primary or secondary data sources.
+maintain databases/data systems.
+locate and correct code problems using performance indicators.
+securing the database by developing access system.
+
+11. what does the standard data analysis process look like?
+answer: if you’re interviewing for a data analyst job, it’s likely you’ll be asked this question and its one that your interviewer will expect that you can easily answer, so be prepared. be sure to go into detail, and list and describe the different steps of a typical data analyst process. these steps include data exploration, data preparation, data modeling, validation, and implementation of the model and tracking.
+
+12. what is the imputation process? what are the different types of imputation techniques available?
+answer: the imputation process is the process to replace missing data elements with substituted values.
+
+there are two major types of imputation processes with subtypes:
+
+single imputation
+hot-deck imputation
+cold deck imputation
+mean imputation
+regression imputation
+stochastic regression
+multiple imputation
+with the generation of big data, the more opportunities are arising in the field of data analytics. read our previous blog to learn more about big data analytics importance.
+
+13. what is the difference between data profiling and data mining?
+answer: data profiling focuses on analyzing individual attributes of data, thereby providing valuable information on data attributes such as data type, frequency, length, along with their discrete values and value ranges. on the contrary, data mining aims to identify unusual records, analyze data clusters, and sequence discovery, to name a few.
+
+14. how should you tackle multi-source problems?
+answer: to tackle multi-source problems, you need to:
+identify similar data records and combine them into one record that will contain all the useful attributes, minus the redundancy.
+facilitate schema integration through schema restructuring.
+with that, we come to the end of our list of data analyst interview questions. although these data analyst interview questions are selected from a vast pool of probable questions, these are the ones you are most likely to face if you’re an aspiring data analyst.
+
+15. what are the criteria to say whether a developed data model is good or not?
+answer: a general data analysis question to start; this shows that regardless of how long the interviewee has been working in her field or how advanced she is in the various types of data mining and modeling, she hasn’t forgotten the fundamentals. as these answers are technical and specific, you are looking for an equally technical and concise response. the candidate should be aware that a developed data model should have predictable performance, adapt easily to any changes in business requirements, and be scalable and easily consumed for actionable results.
+
+16. what do you think a data analyst role will look like in five years?
+answer: the answer here helps you understand whether the analyst is lost in the detail or manages to pop her head up to see the bigger picture. it provides insight into how current she is with the industry and sheds light on her strategic thinking abilities. the interviewee’s response should show she has considered where the industry is headed and how technologies impact her function. a strong candidate will demonstrate business acumen by highlighting what the company will want from their data in five years’ time
+
+17. how will differentiate two terms data analysis and data mining?
+answer: this process usually does not need a hypothesis.
+the process is based on well-maintained and structured data.
+the outputs for the data mining process are not easy to interpret.
+with data mining algorithms, you can quickly derive equations.
+data analysis
+
+the process always starts with a question or hypothesis.
+this process involves information cleaning or structuring the data in a proper format.
+a data analyst can quickly interpret results and convey the same to stakeholders.
+to derive equations, only data analysts are responsible.
+
+18. what is the role of a data model for any organization?
+answer: with the help of a data model, you can always keep your client informed in advance for a time period. however, when you enter a new market then you are facing new challenges almost every day. a data model helps you in understanding these challenges in the best way and deriving the accurate outputs from the same.
+
+19. is there any process to define customer trends in the case of unstructured data?
+answer: here, you should use the iterative process to classify the data. take some data samples and modify the model accordingly to evaluate the same for accuracy. keep in mind that always use the basic process for data mapping. also, focus on data mining, data visualization techniques, algorithm designing or more. with all these things, this is easy to convert unstructured data into well-document data files as per customer trends.
+
+20. define the best practices for the data cleaning process?
+answer: the best practices for data cleansing process could be taken as –first of all, design a quality plan to find the root cause of errors.
+once you identify the cause, you can start the testing process accordingly.
+now check data for delicacy or repetition and remove them quickly.
+now track the data and check for business anomalies as well.
+
+21. what do you mean by the outlier?
+answer: the term is usually preferred by analysts for values that are far away and diverges from an overall pattern. two popular types of outliers could be given as – what do you mean by the outlier.
+
+22. what do you mean by the term mapreduce?
+answer: mapreduce is the process to split datasets, analyzing them, processing subset and combining outputs driven from each of the subsets.
+
+23. what are the obligations of a data analyst?
+answer:
+
+they should provide support for their particular analyses and correspond with both clientele and staff.
+they should make certain to sort out the business-related problems for the clients and frequently audit their data
+analysts commonly analyze products and consider the information they find using statistical tools, providing ongoing reports to leaders in their company.
+prioritizing business requirements and working alongside management to deal with data needs is a major duty of the data analyst.
+the data analyst should be adept at the identification of new processes and specific areas where the analysis and data storage process could be improved.
+a data analyst will help to set the standards and performance, locating and correcting the code issues preventing these standards from being met.
+securing the database through the development of access systems to determine and regulate user levels of access is another huge duty of this position.
+24. describe the way that a data analyst would go about qa when considering a predictive model for the forecasting of customer churn?
+answer: the analyst often requires significant input from proprietors, as well as a good environment where they are able to conduct operations from the analytics. for one, to create and deploy the model demands that this process needs to be as efficient as possible. without feedback from the owner, the model loses applicability as the business model evolves and changes.
+
+the appropriate course of action is usually to divide the data into three separate sets which include training, testing, and validation. the results of the validation would then be presented to the business owner after the elimination of the biases from the first two sets. the input of the client should give the analyst a good idea about whether or not the model is able to predict the customer churn with accuracy and consistently provide the correct results.
+
+25. what is the data screening process?
+answer: data screening is a part of the validation process in which a complete set of data is processed through a number of validation algorithms to try to figure out if the data contributes to any business-related problems.
+
+26. what is clustering in data analysis?
+answer: the clustering in data analysis defines the process of grouping a set of objects based on specific predefined parameters. this is one of the industry-recognized data analysis technique especially used in big data analysis.
+
+27. mention a few of the statistical methods which are widely used for data analysis?
+answer: some of the useful and widely used statistical methods:
+
+simplex algorithm
+bayesian method
+cluster and spatial processes
+markov process
+mathematical optimization
+rank statistics, outliers detection, percentile
+
+28. what is involved in typical data analysis?
+answer: the interviewer is making certain that you have a basic understanding of the work you’ll be doing. your answer is extremely important, especially if this will be your first time in a data analyst position.
+
+“typical data analysis involves the collection and organization of data. then, finding correlations between that analyzed data and the rest of the company’s and industry’s data. it also entails the ability to spot problems and initiate preventative measures or problem-solve creatively.”
+
+29. what has been your most difficult analysis to date?
+answer: the interviewer wants to see if you are an effective problem solver. be sure to include how you overcame the challenge.
+
+“my biggest challenge was making prediction sales during the recession period and estimating financial losses for the upcoming quarter. interpreting the information was a seamless process. however, it was slightly difficult to forecast future trends when the market fluctuates frequently. usually, i analyze and report on data that has already occurred. in this case, i had to research how receding economic conditions impacted varying income groups and then make an inference on the purchasing capacity of each group.”
+
+30. what is the role of the qa process is defining the outputs as per customer requirements?
+answer: here, you should divide the qa process into three parts – data sets, testing, and validation. based on the data validation process, you can check either data model is defined as per customer requirements or needs more improvement.
+
+31. what do you understand by the term data cleansing?
+answer: data cleansing is an important step in the case of a data analysis process where data is checked for repletion or inaccuracy. in case, it does not satisfy business rules then it should be removed from the list.
+
+32. explain the process of data analysis?
+answer: data analysis involves the collection, inspection, cleaning, transformation, and modeling of data in order to provide the best insights and support decision-making protocols within the firm. at its core, this position provides the backbone of what constitutes the most difficult decisions a firm will have to make. the different steps within the process of analysis include:
+
+exploration of data; when a business problem has been identified, the analyst might go through the data as provided by the customer so they can get to the root of the issue.
+preparing the data; the preparation of data is crucial because it helps to identify where there might be are data anomalies like missing values and outliers– inappropriately modeled data can lead to costly decision-making errors.
+data modeling; the step for modeling starts as soon as the data has been prepared. in this process, the model is run repeatedly for the purpose of improving the clarity and certainty of the data. modeling helps to guarantee that the best possible result is eventually found for particular problems.
+data validation: this step involves the model provided to the client and the model given to the analyst being verified against one other to ascertain if the newly-developed model will meet expectations.
+model implementation and tracking; this final step of the process of analysis allows the model to be implemented after it has been tested efficiency and correctness.
+
+33. how do you define big data?
+answer: it’s likely that you’ll be interviewed by an hr rep, an end business user, and an it pro. each person will probably ask you to explain what big data is, and how the data analysis discipline works with big data to produce insights.
+
+you can start your answer with something fundamental, such as “big data analysis involves the collection and organization of data, and the ability to discover correlations between the data that provide revelations or insights that are actionable.” you must be able to explain this in terms that resonate with each interviewer; the best way to do this is to illustrate the definition with an example.
+
+the end business user wants to hear about a hypothetical case where a specific set of data relationships uncovers a business problem and offers a solution to the problem. an hr rep might be receptive to a more general answer, though the answer is more impressive if you can cite an hr issue, such as how to look for skills areas in the company where personnel needs more training. the it pro also wants to hear about an end business hypothetical where big data analysis yields results, but he also wants to know about the technical process of arriving at the data postulates and conclusions.
+
+34. explain what is correlogram analysis?
+answer: a correlogram analysis is the common form of spatial analysis in geography. it consists of a series of estimated autocorrelation coefficients calculated for a different spatial relationship. it can be used to construct a correlogram for distance-based data when the raw data is expressed as a distance rather than values at individual points.
+
+35. how do you define “big data”?
+answer: big data, as it is called, is the organization and interpretation of large data sets and multiple data sets to find new trends and highlight key information. in the case of your company, that means identifying trends in consumer tastes and behaviors that marketing strategists can take advantage of when they are planning a brand’s next moves. for example, one use of big data would be looking at both market share and market growth together, then breaking them down by demographics to highlight both the most common demographics for products and the users with growing interest who might represent opportunities for growth.
+
+36. how does social media fit into what you do?
+answer: social media is an ongoing sample set with live results that can be used to inform a brand’s approach, but it is also volatile, and analysts can easily lose track of the fact that it is a world of its own. i view it as a treasure trove of information, but it is not necessarily more or less important than other indicators of consumer behavior.
+
+37. how can we differentiate between data mining and data analysis?
+here are a few considerable differences:
+answer:
+
+data mining: data mining does not require any hypothesis and depends on clean and well-documented data. results of data mining are not always easy to interpret. its algorithms automatically develop equations.
+data analysis: whereas, data analysis begins with a question or an assumption. data analysis involves data cleaning. the work of the analysts is to interpret the results and convey the same to the stakeholders. data analysts have to develop their equations based on the hypothesis.
+
+38. what are the best practices for data cleaning?
+answer: there are 5 basic best practices for data cleaning:
+make a data cleaning plan by understanding where the common errors take place and keep communications open.
+standardize the data at the point of entry. this way it is less chaotic and you will be able to ensure that all information is standardized, leading to fewer errors on entry.
+focus on the accuracy of the data. maintain the value types of data, provide mandatory constraints and set cross-field validation.
+identify and remove duplicates before working with the data.
+
+this will lead to an effective data analysis process.
+create a set of utility tools/functions/scripts to handle common data cleaning tasks.
+
+39. what is the difference between r-squared and adjusted r-squared?
+
+answer: r-squared measures the proportion of the variation within the dependent variables as explained by the independent variables. the adjusted r-squared provides the percentage of variation as explained by the independent variables that in reality affect the dependent variable.
+
+40. what is the difference between stratified and cluster type sampling?
+answer: the main difference between stratified and cluster sampling is that cluster sampling happens by selecting clusters at random and then sampling each of the clusters or doing a census within the cluster, though not all of the clusters ought to be selected. when it comes to stratified sampling, all of the strata should be sampled.
+
+41. name the best tools which are useful for analyzing data provided?
+the best data analyst tools for analyzing the given data are:
+
+google fusion table
+wolfram alpha’s
+io
+nodexl
+solver
+search operator by google
+knime
+open refine
+rapid miner
+tableau
+
+42. which imputation method is more favorable?
+answer: although single imputation is widely used, it does not reflect the uncertainty created by missing data at random. so, multiple imputations are more favorable than single imputation in case of data missing at random.
+
+43. tell us about your marketing experience. what made you interested in marketing data analysis specifically?
+answer: before i went back to school, i mostly worked in a call center. we would go back and forth between handling warranty claims and customer service for some companies and conducting market research for others. that was where my interest started to grow. i learned in that job how the different ways of phrasing questions yielded different insights and responses from clients, and i started to get a sense for when questions were going to be more or less productive. as i came to understand how the design of these questions reflected the level of engagement certain brands had in the market, i started getting interested in how i could use this kind of understanding to move into the industry.
+
+44. how will you define logistic regression?
+answer: logistic regression is a statistical method that analyzes a dataset, in which there are one or more independent variables and it determines the outcome. it is measured with a dichotomous variable. the objective of logistic regression is to determine the suitable fitting model to describe the relationship between the dichotomous characteristic of interest and a set of independent variables. logistic regression generates the coefficients of a formula to predict a logistic transformation of the probability of a presence of the characteristic of interest.
+
+45. how to create a classification to recognize an essential customer trend in unorganized data?
+answer: initially, there is a need to consult with the stakeholders of the business to understand the objective of classifying the data. then, pull new data samples and modifying the model accordingly and evaluating it for accuracy. for this, a necessary process of mapping the data, creating an algorithm, mining the data and visualization is done. however, one can accomplish this in multiple segments by considering the feedback from stakeholders to ensure that the model can produce actionable results.
+a model does not hold any value if it cannot produce actionable results, an experienced data analyst will have a different strategy based on the type of data being analyzed.
+
+46. what are the data validation methods used in data analytics?
+answer: the various types of data validation methods used are:
+field level validation – validation is done in each field as the user enters the data to avoid errors caused by human interaction.
+form level validation – in this method, validation is done once the user completes the form before a save of the information is needed.
+data saving validation – this type of validation is performed during the saving process of the actual file or database record. this is usually done when there are multiple data entry forms.
+search criteria validation – this type of validation is relevant to the user to match what the user is looking for to a certain degree. it is to ensure that the results are actually returned.
+
+47. why is knn used to determine missing numbers?
+answer: knn is used for missing values under the assumption that a point value can be approximated by the values of the points that are closest to it, based on other variables
+
+48. what are the two main methods two detect outliers?
+answer: box plot method: if the value is higher or lesser than 1.5*iqr (interquartile range) above the upper quartile (q3) or below the lower quartile (q1) respectively, then it is considered an outlier.
+standard deviation method: if value higher or lower than mean ± (3*standard deviation), then it is considered an outlier.
+
+49. what do you mean by cluster sampling and systematic sampling?
+answer: when studying the target population spread throughout a wide area becomes difficult and applying simple random sampling becomes ineffective, the technique of cluster sampling is used. a cluster sample is a probability sample, in which each of the sampling units is a collection or cluster of elements.
+
+following the technique of systematic sampling, elements are chosen from an ordered sampling frame. the list is advanced in a circular fashion. this is done in such a way so that once the end of the list is reached, the same is progressed from the start, or top, again.
+
+50. what steps can be used to work on a qa if a predictive model is developed for forecasting?
+answer: here is a way to handle the qa process efficiently:
+firstly, partition the data into three different sets training, testing and validation.
+secondly, show the results of the validation set to the business owner by eliminating biases from the first two sets. the input from the business owner or the client will give an idea of whether the model predicts customer churn with accuracy and provides desired results or not.
+data analysts require inputs from the business owners and a collaborative environment to operationalize analytics. to create and deploy predictive models in production there should be an effective, efficient and repeatable process. without taking feedback from the business owner, the model will be a one-and-done model.
